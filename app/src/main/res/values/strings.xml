@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aural Analytics Android Challenge</string>
+
+    <string name="listing">Listing</string>
+    <string name="posted_by">Posted by %s</string>
+    <string name="score">%d score</string>
+    <string name="comments">%d comments</string>
+    <string name="retry">Retry</string>
+    <string name="error_generic_message">An error occurred while fetching data.</string>
+</resources>
